@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+	<HEADERSECTION SENDER="ili2gpkg-4.6.1-63db90def1260a503f0f2d4cb846686cd4851184" VERSION="2.3">
+	<MODELS>
+	  <MODEL NAME="CatalogueObjects_V1" VERSION="2011-08-30" URI="http://www.geo.admin.ch"/>
+	  <MODEL NAME="LocalisationCH_V1" VERSION="2011-08-30" URI="http://www.geo.admin.ch"/>
+	  <MODEL NAME="DM_GA25_ProfilesCatalogues_V1" VERSION="2022-01-24" URI="https://models.geo.admin.ch/Swisstopo/"/>
+	</MODELS>
+	</HEADERSECTION>
+	<DATASECTION>
+		<GA25_ProfilesCatalogues_V1.Catalogues BID="7d9ae784-9928-4186-8ca6-b21a453be372">
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c5a8db1a-fe2d-4db0-b335-a4227e2642ed">
+				<Name>Aarau (LK 1089)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d1ed7bf1-14c4-418e-bb62-dab6857937ae">
+				<Name>Albis (LK 1111)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="faa5d817-f28b-4a79-bd83-86525ac4b24a">
+				<Name>Albulapass (LK 1237)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d37df8dc-3772-4640-b419-7b8a21556735">
+				<Name>Aletschgletscher (LK 1269)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f59d0786-a64a-4fc5-93bd-a8f9bdfaadee">
+				<Name>Alpnach (LK 1170)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="05516d89-ceb5-4fae-a823-3e68048dee3c">
+				<Name>Ambrì-Piotta (CN 1252)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="68af5369-e9ba-4ba3-8a1c-07a74ed03553">
+				<Name>Amsteg (LK 1212)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="81514420-8e50-43ac-a4bf-2f080ff049aa">
+				<Name>Andeer (LK 1235)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d67cc83b-a722-419f-969e-8fbea31ba7d0">
+				<Name>Ardez (LK 1198)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="dff66427-d3ed-4931-97b3-12dfeecc489d">
+				<Name>Arlesheim (LK 1067)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="6b83e859-bc85-43ca-94ac-5850afe504e2">
+				<Name>Baden (LK 1070)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="9a83a6dd-dd82-413f-9179-b44e601b0745">
+				<Name>Balsthal (LK 1107)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c9d7c5b2-0366-424c-b471-7123dd7f0d40">
+				<Name>Basel (LK 1047)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="57452817-88c6-4857-a606-86917855d2a6">
+				<Name>Basodino (LK 1271)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="6bc51f68-acc9-4205-b3a3-eba8272a7647">
+				<Name>Bellelay-Saignelégier (CN 1105/1104)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="a3340850-a9ac-4eca-88f8-3de20863d07c">
+				<Name>Bellinzona (LK 1313)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1982f7b4-03e7-46b0-8add-adc1d9f0ab85">
+				<Name>Bern (LK 1166)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="fe755b4a-02d2-483c-9613-51b00ce55374">
+				<Name>Beromünster-Hochdorf-Sempach-Eschenbach (LK 1130)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c60c91b0-48d8-4935-9294-8b355c50a184">
+				<Name>Biaufond-St Imier (CN 1124)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5f70cf18-ce2a-41e5-a069-4100b47edb9f">
+				<Name>Bieler See (LK 1145)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="b8cef84f-0b2c-4f30-ac28-afe8a8bc0205">
+				<Name>Bischofszell (LK 1074)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="15c1bd6e-8775-4920-9740-1897f74fb33b">
+				<Name>Bivio (LK 1256)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5c03282b-680c-49f3-9d83-742aa827d4d9">
+				<Name>Boltigen (LK 1226)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ef65a3f4-4721-458f-8542-a406f2ebc1df">
+				<Name>Bonfol (CN 1065)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="8bed2205-31ad-49ca-9c2b-bf9847fb93a4">
+				<Name>Bosco/Gurin (CN 1291)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ce1e1413-e359-40ff-b66b-17be4c05a6cd">
+				<Name>Brig (LK 1289)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="fea386de-64d9-4b8e-b6ee-7367a42cb14e">
+				<Name>Buchs (LK 1135)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e7b88b6e-59f9-44ed-8be7-cbee91fbcbc3">
+				<Name>Bülach (LK 1071)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="08639d1b-c5d6-4df2-b6d7-deb09c2cfd98">
+				<Name>Büren a. A. (LK 1126)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="84bc2265-09c0-4a3d-b64d-fcdabff772db">
+				<Name>Chanrion-Mt-Vélan (CN 1346/1366)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="19316574-e5e9-48dc-8b02-11f3792c432b">
+				<Name>Chasseral (CN 1125)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5b521e08-8eb1-4e47-9fe1-61e4a9b4bf66">
+				<Name>Château-d'Oex (CN 1145)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="0134b3d0-45b5-4c38-91b5-1bf96e05dbf3">
+				<Name>Châtel-St-Denis (CN 1244)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="a1714d1d-c5aa-4ac2-95a6-7e621833d930">
+				<Name>Davos (LK 1197)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="32309101-e0c8-49d4-9c11-926851e50d73">
+				<Name>Dt de Morcles (CN 1305)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5a92913c-6f3f-4343-b204-185ce8f33722">
+				<Name>Eggiwil (LK 1188)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="110bfa0a-e083-4254-adec-5b100c54ae70">
+				<Name>Einsiedeln (LK 1132)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="7cafd3b8-1545-4e82-be83-1eb161ee764b">
+				<Name>Finhaut (CN 1324)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="30c9ea12-6ea6-48b7-91b6-9056370f8e74">
+				<Name>Fraubrunnen-Burgdorf (LK 1147)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1c7655c1-a141-474e-95a3-413be924db7c">
+				<Name>Fribourg (CN 1185)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="0ebd99c9-fbda-4855-9e97-9874e31e3516">
+				<Name>Frick-Laufenburg (LK 1069/1049)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f29406f9-6a1c-4b62-b8a1-4b86d4bd21c7">
+				<Name>Gemmi (LK 1267)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="a61ba4e4-ce09-44c3-8302-4731cfb1cd43">
+				<Name>Grand Saint-Bernard (CN 1365)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="845c898c-a7d0-4887-aae7-41229c57fe3e">
+				<Name>Greina (LK 1233)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="55489d5c-9586-496f-9c0b-8406484ea360">
+				<Name>Grindelwald-Meiringen (LK 1229)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5ded7dd4-294e-413a-8e9f-e86a7c505e08">
+				<Name>Gruyères (CN 1225)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="048b2ea1-e4a4-4146-9377-4b8ca1853f25">
+				<Name>Hauenstein (LK 1088)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e601b8f9-3a88-40d8-954d-3d1ee753e99e">
+				<Name>Hitzkirch (LK 1110)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="8168ce8d-25c4-44e6-b91a-f840ba1c197b">
+				<Name>Hörnli (LK 1093)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="af437c8f-1549-4a09-be9a-5e94affe40e8">
+				<Name>Ilanz (LK 1214)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5f962580-1e9e-4d24-8d92-265367139b44">
+				<Name>Innertkirchen (LK 1210)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1063054f-8bdf-40d5-9fb3-be170613aa26">
+				<Name>Iorio (LK 1314)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="a99a511f-893b-4707-939b-381246bdd492">
+				<Name>Jorat (CN 1223)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="75d15557-d04f-4ac4-a98b-14587f77d0c4">
+				<Name>Langenthal (LK 1128)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="7af163dc-0eb1-4756-91b2-3d59b02456ed">
+				<Name>Laufen-Bretzwil-Erschwil-Muemliswil (LK 1087)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f664ab74-230c-4317-8ae3-e33913c440d7">
+				<Name>Lausanne (CN 1243)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d6d2b780-3afc-4b36-be3c-2be7e2361d70">
+				<Name>Lenk (LK 1266)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c9cbfdaf-bb28-4822-9476-7a98127b83b6">
+				<Name>Les Diablerets (CN 1285)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="712aae76-b765-4457-a5ac-572939e56cc0">
+				<Name>Les Mosses (CN 1265)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="fd5eb353-638d-4f0d-a05d-5149b8c08fe1">
+				<Name>Les Plats-Gimel (CN 1241)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f94a6025-38e6-4214-a6ed-1f8113a40fb0">
+				<Name>Linthal (LK 1173)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5c228377-3bcb-452b-9f79-d79acb550e6b">
+				<Name>Linthebene (LK 1133)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="bb9837d8-4724-4be5-b1ab-b5535001e793">
+				<Name>Locarno (CN 1312)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e0b6d9b5-8f79-46d1-8848-430c01102ca9">
+				<Name>Lötschental (LK 1268)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1d94ff0d-9350-4dfe-8a61-7f96ef4d8510">
+				<Name>Luzern (LK 1150)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e41e0962-076d-468c-8901-a225736094ff">
+				<Name>Lyss (LK 1146)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="6216bd7a-0aeb-46a5-a917-b70eb420d8ca">
+				<Name>Matterhorn (LK 1347)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="3a96d817-cc4d-4602-b2f8-f69d929bd7b4">
+				<Name>Meiental-Engelberg (LK 1211/1191)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="3136ee8a-59c5-443d-995b-c6f4edecc970">
+				<Name>Mendrisio-Como(CN 1373/1374)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ba3f0708-8762-477e-8df7-73d044439241">
+				<Name>Monthey (CN 1284)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="26fef5bb-5da1-4715-a01c-cd3c56015516">
+				<Name>Montreux (CN 1264)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="b4354468-afac-48a3-8760-64a08cf108b8">
+				<Name>Moudon (CN 1224)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1f9f49ea-9969-4473-a08e-e84aaf0fdca9">
+				<Name>Moutier (CN 1106)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="554e9914-2dd8-427f-838f-f14322847b5f">
+				<Name>Münsingen-Heimberg (LK 1187)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1d9072e4-5c52-4e61-a908-19049379adcd">
+				<Name>Muotathal (LK 1172)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="11a7beb5-c3c1-46f3-9112-101206eeaef0">
+				<Name>Murgenthal (LK 1108)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f50e23ff-8d29-4be7-afb3-ae762baf695f">
+				<Name>Murten (LK 1165)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="2d06608e-ea7f-46c1-9dea-28cfc8638248">
+				<Name>Nesslau (LK 1114)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c7213ea8-3dc3-45f6-ab5e-6f56b663ff0e">
+				<Name>Neuchâtel (CN 1164)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f198d33e-07e4-427f-b2d7-f18ceaef0c34">
+				<Name>Neunkirch (LK 1031)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f55a21cf-d635-4b7e-b02a-5aa655802966">
+				<Name>Nyon (CN 1261)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="42407daf-f329-4c72-87a9-0372a114b0a2">
+				<Name>Oberalppass (LK 1232)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d4dae539-cebe-4286-a3c6-5920f1ada672">
+				<Name>Orbe (CN 1202)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="46362a4a-2a3a-4f5e-9f3d-56546aadb556">
+				<Name>Orsières (CN 1345)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="32210d00-8806-4b29-be06-6c9459905c41">
+				<Name>Payerne (CN 1184)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ac30f0e5-bd52-42c4-8d14-2d525089e32d">
+				<Name>Piz Bernina (LK 1277)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="a7cd1073-3978-4de8-816e-d98b4ac87ddb">
+				<Name>Randa (LK 1328)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="473a3e03-7c8e-4116-8f2e-41c382967bf3">
+				<Name>Raron (LK 1288)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="45dd667a-611f-49d4-beb1-9aac922d8773">
+				<Name>Ricken (LK 1113)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d5ca1ffc-80b5-4af6-ba94-d00db7735a4d">
+				<Name>Rigi (LK 1151)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="3b453eb5-2196-40b9-abd7-2ff15d2576cd">
+				<Name>Romanshorn (LK 1055)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="13c1073c-0bd6-4a89-bc5b-7b5f0369b2fa">
+				<Name>Romont (CN 1204)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="4c387fc2-38d3-47db-b83b-71ca79559fed">
+				<Name>Rorschach (LK 1075)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="8c047287-7a5b-40e4-8527-3b01733bc224">
+				<Name>Rossens (CN 1205)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="2254e9c2-ebf6-467b-8e71-6363836ce0c2">
+				<Name>Saas (LK 1329)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="85ec7233-801d-4bdf-803c-ff33f7fa4b31">
+				<Name>Säntis (LK 1115)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="329b6a30-6ebc-402c-8936-c23486c20126">
+				<Name>Sargans (LK 1155)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="7dba2033-7a84-43b7-853c-b3780bbc0722">
+				<Name>Schächental (LK 1192)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1e1af00d-13ab-4451-b2ff-67c7c365a61b">
+				<Name>Schöftland (LK 1109)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="71e5ca38-c325-4e4b-a0e0-45c2e6a1b7a5">
+				<Name>Schüpfheim (LK 1169)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d0866926-2819-401b-bfb2-a4f85d6e9fda">
+				<Name>Schwarzenburg (LK 1186)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="339da062-9d92-44d4-bd86-c274ca31a28d">
+				<Name>Sciora (LK 1296)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ed146694-b99b-4846-99c7-ccb9283461fc">
+				<Name>Scuol/Schuls-Tarasp (LK 1199)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="98afa565-6f7c-442b-bd5f-90708dc1c38b">
+				<Name>Sembrancher (CN 1325)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="f79a7022-f3e2-4f05-8889-24cc335f48e2">
+				<Name>Sierre (CN 1287)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="80b59a35-07c7-4f95-8829-522c27dff582">
+				<Name>Simplon (LK 1309)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="23f738c2-fe69-44bf-845d-72d01d59bcf2">
+				<Name>Sion (CN 1306)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e7776782-9a89-4f85-a47b-d8ee576111c0">
+				<Name>Solothurn (LK 1127)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c0cefe5e-025b-495e-98aa-751fb031bba4">
+				<Name>St-Léonard (CN 1286)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="620576c1-2525-4b24-9b78-b98911f62714">
+				<Name>St-Margrethen-Diepoldsau (LK 1076/1096)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d8682eb9-857c-4aab-bcf6-1632557b4142">
+				<Name>St-Ursanne (CN 1085)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e9b18453-807b-41a2-9baa-4ea572d972c9">
+				<Name>St. Moritz (LK 1257)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="02c1fbbe-c059-4225-98cd-072888be2857">
+				<Name>St. Niklaus (LK 1308)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5be8abb2-7066-4aaa-8880-283fdd6c1906">
+				<Name>St.Gallen Appenzell (LK 1095)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="6037a6d1-75fd-46dc-b650-5c773e5d1d26">
+				<Name>Ste-Croix (CN 1182)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="e6cdef61-85ed-4f93-afd8-1b91f61fa5ce">
+				<Name>Steckborn-Kreuzlingen (LK 1033/1034)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="0616656e-b44b-466f-a8e8-f2abff005a75">
+				<Name>Sumiswald (LK 1148), Wolhusen (LK 1149), Langnau i. E. (LK 1168)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="62254c04-79d0-42ca-906c-369f4d991014">
+				<Name>Sursee (LK 1129)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5940c154-b9b0-4803-86f7-1c71d4abf6d6">
+				<Name>Tesserete (LK 1333)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="b1651006-dcda-475d-838f-85cc28ef3c15">
+				<Name>Thusis (LK 1215)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="4a19af54-f5a0-4c00-9e58-37790de04d4f">
+				<Name>Travers (CN 1163)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c6dd049b-8eca-46c2-939d-4f5e6c19c89b">
+				<Name>Urseren (LK 1231)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ac44a7e2-fca7-4b0f-ad59-c5b55565dfac">
+				<Name>Uster (LK 1092)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="962a4a4f-8c5a-4eb5-a414-ab9f1fd48558">
+				<Name>Val Bedretto (LK 1251)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="1bc82069-a9bc-406c-b854-d865f7cf2e14">
+				<Name>Val de Ruz (CN 1144)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="21504200-84e6-47cc-84b5-63cd9dc00d6d">
+				<Name>Vallée de Joux (CN 1221)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="077ff308-154e-4680-9305-f04d803acd1c">
+				<Name>Vals (LK 1234)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d7cc5972-6709-49c5-a82f-0ecbecbff45d">
+				<Name>Vissoie (CN 1307)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="ebb19f89-fd01-4f1b-9808-a705f3125498">
+				<Name>Wil (LK 1073)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="2106d610-155e-4cd5-b331-e4bb2041c00a">
+				<Name>Winterthur (LK 1072)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="d36c8b98-2d53-4649-82ac-505e15eeba04">
+				<Name>Wohlen (LK 1090)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="03acca9c-212f-4d8e-ac75-c8bed42f2689">
+				<Name>Worb (LK 1167)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="66d316eb-00f8-48fe-ba33-81fadd5ad9e7">
+				<Name>Yverdon-les-Bains (CN 1203)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="5a40cbee-251f-4c78-b655-c9e5f40f05c1">
+				<Name>Zermatt (LK 1348)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="c43604f6-04c4-4a05-88de-c3911756f04e">
+				<Name>Zernez (LK 1218)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="252e75ae-3fa5-47fe-94ec-1533631c2761">
+				<Name>Zürich (LK 1091)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem TID="b4f16ba2-5dfc-49b4-919d-e982a73ee8c4">
+				<Name>Zurzach (LK 1050)</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProNameItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProSectionTypeItem TID="1d94459e-ddf5-4de7-bfab-f2bf90174e94">
+				<Name>
+					<LocalisationCH_V1.MultilingualText>
+						<LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Text>Geological</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>de</Language>
+								<Text>Geologisch</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>fr</Language>
+								<Text>Géologique</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>it</Language>
+								<Text>Geologico</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>en</Language>
+								<Text>Geological</Text>
+							</LocalisationCH_V1.LocalisedText>
+						</LocalisedText>
+					</LocalisationCH_V1.MultilingualText>
+				</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProSectionTypeItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProSectionTypeItem TID="27497c64-8595-43a8-b8cd-0fdcef188424">
+				<Name>
+					<LocalisationCH_V1.MultilingualText>
+						<LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Text>Geological and quaternary</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>de</Language>
+								<Text>Geologisch und quartärgeologisch</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>fr</Language>
+								<Text>Géologique et quaternaire</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>it</Language>
+								<Text>Geologico e quaternario</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>en</Language>
+								<Text>Geological and quaternary</Text>
+							</LocalisationCH_V1.LocalisedText>
+						</LocalisedText>
+					</LocalisationCH_V1.MultilingualText>
+				</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProSectionTypeItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProSectionTypeItem TID="e8ec6296-fd19-4e50-999c-414b394952ac">
+				<Name>
+					<LocalisationCH_V1.MultilingualText>
+						<LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Text>Quaternary</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>de</Language>
+								<Text>Quartärgeologisch</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>fr</Language>
+								<Text>Quaternaire</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>it</Language>
+								<Text>Quaternario</Text>
+							</LocalisationCH_V1.LocalisedText>
+							<LocalisationCH_V1.LocalisedText>
+								<Language>en</Language>
+								<Text>Quaternary</Text>
+							</LocalisationCH_V1.LocalisedText>
+						</LocalisedText>
+					</LocalisationCH_V1.MultilingualText>
+				</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProSectionTypeItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="9ab3d2ff-9184-47c6-920b-0092847a9453">
+				<Name>1:10000</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="b3585642-9bf4-4283-805c-684ba6a5a91a">
+				<Name>1:100000</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="f3b8b707-a171-4a9f-a5f8-f354a4a4852e">
+				<Name>1:12500</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="22633eb5-2d5c-4df8-9093-f7a653010685">
+				<Name>1:25000</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="dda7295e-c21f-434b-a8f6-e8c787c7b845">
+				<Name>1:33333</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="2951ddac-8a67-45ea-bd0b-633152a7521a">
+				<Name>1:4000</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="d7c3a4a8-35ab-4727-ac2b-d29a6fdad230">
+				<Name>1:5000</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+			<GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem TID="442c3bfc-432c-4e7d-b1a0-7b295e0734b6">
+				<Name>1:50000</Name>
+			</GA25_ProfilesCatalogues_V1.Catalogues.ProScaleItem>
+		</GA25_ProfilesCatalogues_V1.Catalogues>
+	</DATASECTION>
+</TRANSFER>
