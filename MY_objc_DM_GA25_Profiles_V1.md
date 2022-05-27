@@ -1,103 +1,82 @@
 
 
-Objektkatalog des Paketes UmlModel1
+Objektkatalog des Paketes UML\_DM\_GA25\_Profiles\_V1
 A {text-decoration: none }TD{border-bottom: solid black; border-bottom-width: 1px}
 
 
 # Inhalt
 
 
-[1 UmlModel1](#1_UmlModel1)
+[1 UML\_DM\_GA25\_Profiles\_V1](#1_UML_DM_GA25_Profiles_V1)
 
 
 [1.1 Pakete](#1.1_Packages)
 
 
-[2 INTERLIS2Def3](#2_INTERLIS2Def3)
+[2 DM\_GA25\_Profiles\_V1.ili](#2_DM_GA25_Profiles_V1.ili)
 
 
 [2.1 Pakete](#2.1_Packages)
 
 
-[3 eingelesen1](#3_eingelesen1)
+[3 GA25\_ProfilesCatalogues\_V1.ili](#3_GA25_ProfilesCatalogues_V1.ili)
 
 
 [3.1 Pakete](#3.1_Packages)
 
 
-[4 ModelDef4](#4_ModelDef4)
+[4 DM\_GA25\_Profiles\_V1](#4_DM_GA25_Profiles_V1)
 
 
 [4.1 Pakete](#4.1_Packages)
 
 
-[5 DM\_GA25\_Profiles\_V1.ili](#5_DM_GA25_Profiles_V1.ili)
+[4.2 Klassen](#4.2)
+
+
+[4.3 LineStructure](#4.3_LineStructure)
+
+
+[4.4 MultiLine](#4.4_MultiLine)
+
+
+[5 GA25\_ProfilesCatalogues\_V1](#5_GA25_ProfilesCatalogues_V1)
 
 
 [5.1 Pakete](#5.1_Packages)
 
 
-[6 GA25\_ProfilesCatalogues\_V1.ili](#6_GA25_ProfilesCatalogues_V1.ili)
+[6 Profiles](#6_Profiles)
 
 
-[6.1 Pakete](#6.1_Packages)
+[6.1 Klassen](#6.1)
 
 
-[7 TopicDef5](#7_TopicDef5)
+[6.2 Profile](#6.2_Profile)
 
 
-[8 DM\_GA25\_Profiles\_V1](#8_DM_GA25_Profiles_V1)
+[7 Catalogues](#7_Catalogues)
 
 
-[8.1 Pakete](#8.1_Packages)
+[7.1 Klassen](#7.1)
 
 
-[8.2 Klassen](#8.2)
+[7.2 ProNameItem](#7.2_ProNameItem)
 
 
-[8.3 LineStructure](#8.3_LineStructure)
+[7.3 ProNameRef](#7.3_ProNameRef)
 
 
-[8.4 MultiLine](#8.4_MultiLine)
+[7.4 ProScaleItem](#7.4_ProScaleItem)
 
 
-[9 GA25\_ProfilesCatalogues\_V1](#9_GA25_ProfilesCatalogues_V1)
+[7.5 ProScaleRef](#7.5_ProScaleRef)
 
 
-[9.1 Pakete](#9.1_Packages)
+[7.6 ProSectionTypeItem](#7.6_ProSectionTypeItem)
 
 
-[10 Profiles](#10_Profiles)
-
-
-[10.1 Klassen](#10.1)
-
-
-[10.2 Profile](#10.2_Profile)
-
-
-[11 Catalogues](#11_Catalogues)
-
-
-[11.1 Klassen](#11.1)
-
-
-[11.2 ProNameItem](#11.2_ProNameItem)
-
-
-[11.3 ProNameRef](#11.3_ProNameRef)
-
-
-[11.4 ProScaleItem](#11.4_ProScaleItem)
-
-
-[11.5 ProScaleRef](#11.5_ProScaleRef)
-
-
-[11.6 ProSectionTypeItem](#11.6_ProSectionTypeItem)
-
-
-[11.7 ProSectionTypeRef](#11.7_ProSectionTypeRef)
+[7.7 ProSectionTypeRef](#7.7_ProSectionTypeRef)
 
 
 
@@ -105,136 +84,85 @@ A {text-decoration: none }TD{border-bottom: solid black; border-bottom-width: 1p
 # Paketstruktur
 
 
-[1 UmlModel1](#1_UmlModel1)
+[1 UML\_DM\_GA25\_Profiles\_V1](#1_UML_DM_GA25_Profiles_V1)
 
 
-[2 INTERLIS2Def3](#2_INTERLIS2Def3)
+[2 DM\_GA25\_Profiles\_V1.ili](#2_DM_GA25_Profiles_V1.ili)
 
 
-[4 ModelDef4](#4_ModelDef4)
+[4 DM\_GA25\_Profiles\_V1](#4_DM_GA25_Profiles_V1)
 
 
-[7 TopicDef5](#7_TopicDef5)
+[4.3 LineStructure](#4.3_LineStructure)
 
 
-[3 eingelesen1](#3_eingelesen1)
+[4.4 MultiLine](#4.4_MultiLine)
 
 
-[5 DM\_GA25\_Profiles\_V1.ili](#5_DM_GA25_Profiles_V1.ili)
+[6 Profiles](#6_Profiles)
 
 
-[8 DM\_GA25\_Profiles\_V1](#8_DM_GA25_Profiles_V1)
+[6.2 Profile](#6.2_Profile)
 
 
-[8.3 LineStructure](#8.3_LineStructure)
+[3 GA25\_ProfilesCatalogues\_V1.ili](#3_GA25_ProfilesCatalogues_V1.ili)
 
 
-[8.4 MultiLine](#8.4_MultiLine)
+[5 GA25\_ProfilesCatalogues\_V1](#5_GA25_ProfilesCatalogues_V1)
 
 
-[10 Profiles](#10_Profiles)
+[7 Catalogues](#7_Catalogues)
 
 
-[10.2 Profile](#10.2_Profile)
+[7.2 ProNameItem](#7.2_ProNameItem)
 
 
-[6 GA25\_ProfilesCatalogues\_V1.ili](#6_GA25_ProfilesCatalogues_V1.ili)
+[7.3 ProNameRef](#7.3_ProNameRef)
 
 
-[9 GA25\_ProfilesCatalogues\_V1](#9_GA25_ProfilesCatalogues_V1)
+[7.4 ProScaleItem](#7.4_ProScaleItem)
 
 
-[11 Catalogues](#11_Catalogues)
+[7.5 ProScaleRef](#7.5_ProScaleRef)
 
 
-[11.2 ProNameItem](#11.2_ProNameItem)
+[7.6 ProSectionTypeItem](#7.6_ProSectionTypeItem)
 
 
-[11.3 ProNameRef](#11.3_ProNameRef)
-
-
-[11.4 ProScaleItem](#11.4_ProScaleItem)
-
-
-[11.5 ProScaleRef](#11.5_ProScaleRef)
-
-
-[11.6 ProSectionTypeItem](#11.6_ProSectionTypeItem)
-
-
-[11.7 ProSectionTypeRef](#11.7_ProSectionTypeRef)
+[7.7 ProSectionTypeRef](#7.7_ProSectionTypeRef)
 
 
 
 
-# 1 UmlModel1
-
-
-
-
-|  |  |
-| --- | --- |
-| *Author:* |  |
-| *Version:* |  |
+# 1 UML\_DM\_GA25\_Profiles\_V1
 
 
 ## 1.1 Pakete
 
 
-* [INTERLIS2Def3](#2_INTERLIS2Def3)
-* [eingelesen1](#3_eingelesen1)
+* [DM\_GA25\_Profiles\_V1.ili](#2_DM_GA25_Profiles_V1.ili)
+* [GA25\_ProfilesCatalogues\_V1.ili](#3_GA25_ProfilesCatalogues_V1.ili)
 
 
-# 2 INTERLIS2Def3
+# 2 DM\_GA25\_Profiles\_V1.ili
 
 
 ## 2.1 Pakete
 
 
-* [ModelDef4](#4_ModelDef4)
+* [DM\_GA25\_Profiles\_V1](#4_DM_GA25_Profiles_V1)
 
 
-# 3 eingelesen1
+# 3 GA25\_ProfilesCatalogues\_V1.ili
 
 
 ## 3.1 Pakete
 
 
-* [DM\_GA25\_Profiles\_V1.ili](#5_DM_GA25_Profiles_V1.ili)
-* [GA25\_ProfilesCatalogues\_V1.ili](#6_GA25_ProfilesCatalogues_V1.ili)
+* [GA25\_ProfilesCatalogues\_V1](#5_GA25_ProfilesCatalogues_V1)
 
 
-# 4 ModelDef4
-
-
-## 4.1 Pakete
-
-
-* [TopicDef5](#7_TopicDef5)
-
-
-# 5 DM\_GA25\_Profiles\_V1.ili
-
-
-## 5.1 Pakete
-
-
-* [DM\_GA25\_Profiles\_V1](#8_DM_GA25_Profiles_V1)
-
-
-# 6 GA25\_ProfilesCatalogues\_V1.ili
-
-
-## 6.1 Pakete
-
-
-* [GA25\_ProfilesCatalogues\_V1](#9_GA25_ProfilesCatalogues_V1)
-
-
-# 7 TopicDef5
-
-
-# 8 DM\_GA25\_Profiles\_V1
+# 4 DM\_GA25\_Profiles\_V1
 
 
 Data model GA25\_PROFILES - Datenmodell GA25\_PROFILE - Modèle de données AG25\_COUPES
@@ -242,20 +170,20 @@ Data model GA25\_PROFILES - Datenmodell GA25\_PROFILE - Modèle de données AG25\_
 minimal geodata model, topic: GA25\_ProfilesCatalogues, provider: swisstopo / SWISS GEOLOGICAL SURVEY
 
 
-## 8.1 Pakete
+## 4.1 Pakete
 
 
-* [Profiles](#10_Profiles)
+* [Profiles](#6_Profiles)
 
 
-## 8.2 Klassen
+## 4.2 Klassen
 
 
-* [LineStructure](#8.3_LineStructure)
-* [MultiLine](#8.4_MultiLine)
+* [LineStructure](#4.3_LineStructure)
+* [MultiLine](#4.4_MultiLine)
 
 
-## 8.3 LineStructure
+## 4.3 LineStructure
 
 
 
@@ -268,7 +196,7 @@ minimal geodata model, topic: GA25\_ProfilesCatalogues, provider: swisstopo / SW
 | Line | 0..1 | Line |  |
 
 
-## 8.4 MultiLine
+## 4.4 MultiLine
 
 
 
@@ -281,7 +209,7 @@ minimal geodata model, topic: GA25\_ProfilesCatalogues, provider: swisstopo / SW
 | Lines | 1..n |  |  |
 
 
-# 9 GA25\_ProfilesCatalogues\_V1
+# 5 GA25\_ProfilesCatalogues\_V1
 
 
 Data model GA25\_PROFILES (CATALOGUES) - Datenmodell GA25\_PROFILE (KATALOG) - Modèle de données AG25\_COUPES\_GÉOLOGIQUES (CATALOGUES)
@@ -289,25 +217,25 @@ Data model GA25\_PROFILES (CATALOGUES) - Datenmodell GA25\_PROFILE (KATALOG) - M
 GA25\_ProfilesCatalogues belongs to the minimal geodata model, topic: GA25\_ProfilesCatalogues, provider: swisstopo / SWISS GEOLOGICAL SURVEY
 
 
-## 9.1 Pakete
+## 5.1 Pakete
 
 
-* [Catalogues](#11_Catalogues)
+* [Catalogues](#7_Catalogues)
 
 
-# 10 Profiles
+# 6 Profiles
 
 
 Topic of data model DM\_GA25\_Profiles\_V1
 
 
-## 10.1 Klassen
+## 6.1 Klassen
 
 
-* [Profile](#10.2_Profile)
+* [Profile](#6.2_Profile)
 
 
-## 10.2 Profile
+## 6.2 Profile
 
 
 
@@ -339,7 +267,7 @@ Topic of data model DM\_GA25\_Profiles\_V1
 | Link\_swissgeol\_E | 1 | Zeichenkette | Link\_Onlineshop\_E: Link of swissgeol webpage (EN) |
 
 
-# 11 Catalogues
+# 7 Catalogues
 
 
 Topic für Datenmodell GA25\_ProfilesCatalogues
@@ -347,18 +275,18 @@ Topic für Datenmodell GA25\_ProfilesCatalogues
 Definition einer UUID für alle Klassen des Modells
 
 
-## 11.1 Klassen
+## 7.1 Klassen
 
 
-* [ProNameItem](#11.2_ProNameItem)
-* [ProNameRef](#11.3_ProNameRef)
-* [ProScaleItem](#11.4_ProScaleItem)
-* [ProScaleRef](#11.5_ProScaleRef)
-* [ProSectionTypeItem](#11.6_ProSectionTypeItem)
-* [ProSectionTypeRef](#11.7_ProSectionTypeRef)
+* [ProNameItem](#7.2_ProNameItem)
+* [ProNameRef](#7.3_ProNameRef)
+* [ProScaleItem](#7.4_ProScaleItem)
+* [ProScaleRef](#7.5_ProScaleRef)
+* [ProSectionTypeItem](#7.6_ProSectionTypeItem)
+* [ProSectionTypeRef](#7.7_ProSectionTypeRef)
 
 
-## 11.2 ProNameItem
+## 7.2 ProNameItem
 
 
 Name of the geological map
@@ -377,7 +305,7 @@ Name of the geological map
 | ProNameRef |  | ProNameRef |  |
 
 
-## 11.3 ProNameRef
+## 7.3 ProNameRef
 
 
 
@@ -390,7 +318,7 @@ Name of the geological map
 | Reference | 1 | ProNameItem |  |
 
 
-## 11.4 ProScaleItem
+## 7.4 ProScaleItem
 
 
 Scale of the cross-section
@@ -409,7 +337,7 @@ Scale of the cross-section
 | ProScaleRef |  | ProScaleRef |  |
 
 
-## 11.5 ProScaleRef
+## 7.5 ProScaleRef
 
 
 
@@ -422,7 +350,7 @@ Scale of the cross-section
 | Reference | 1 | ProScaleItem |  |
 
 
-## 11.6 ProSectionTypeItem
+## 7.6 ProSectionTypeItem
 
 
 Type of the geological cross-section
@@ -441,7 +369,7 @@ Type of the geological cross-section
 | ProSectionTypeRef |  | ProSectionTypeRef |  |
 
 
-## 11.7 ProSectionTypeRef
+## 7.7 ProSectionTypeRef
 
 
 
@@ -465,23 +393,23 @@ Type of the geological cross-section
  B 
  [C](#Catalogues)
 [D](#DM_GA25_Profiles_V1)
-[E](#eingelesen1)
+ E 
  F 
  [G](#GA25_ProfilesCatalogues_V1)
  H 
- [I](#INTERLIS2Def3)
+ I 
  J 
  K 
  [L](#LineStructure)
-[M](#ModelDef4)
+[M](#MultiLine)
  N 
  O 
  [P](#ProNameItem)
  Q 
  R 
  S 
- [T](#TopicDef5)
-[U](#UmlModel1)
+ T 
+ [U](#UML_DM_GA25_Profiles_V1)
  V 
  W 
  X 
@@ -492,64 +420,52 @@ Type of the geological cross-section
 
   
 
-[Catalogues 11](#11_Catalogues)
+[Catalogues 7](#7_Catalogues)
 
 
-[DM\_GA25\_Profiles\_V1 8](#8_DM_GA25_Profiles_V1)
+[DM\_GA25\_Profiles\_V1 4](#4_DM_GA25_Profiles_V1)
 
 
-[DM\_GA25\_Profiles\_V1.ili 5](#5_DM_GA25_Profiles_V1.ili)
+[DM\_GA25\_Profiles\_V1.ili 2](#2_DM_GA25_Profiles_V1.ili)
 
 
-[GA25\_ProfilesCatalogues\_V1 9](#9_GA25_ProfilesCatalogues_V1)
+[GA25\_ProfilesCatalogues\_V1 5](#5_GA25_ProfilesCatalogues_V1)
 
 
-[GA25\_ProfilesCatalogues\_V1.ili 6](#6_GA25_ProfilesCatalogues_V1.ili)
+[GA25\_ProfilesCatalogues\_V1.ili 3](#3_GA25_ProfilesCatalogues_V1.ili)
 
 
-[INTERLIS2Def3 2](#2_INTERLIS2Def3)
+[LineStructure 4.3](#4.3_LineStructure)
 
 
-[LineStructure 8.3](#8.3_LineStructure)
+[MultiLine 4.4](#4.4_MultiLine)
 
 
-[ModelDef4 4](#4_ModelDef4)
+[ProNameItem 7.2](#7.2_ProNameItem)
 
 
-[MultiLine 8.4](#8.4_MultiLine)
+[ProNameRef 7.3](#7.3_ProNameRef)
 
 
-[ProNameItem 11.2](#11.2_ProNameItem)
+[ProScaleItem 7.4](#7.4_ProScaleItem)
 
 
-[ProNameRef 11.3](#11.3_ProNameRef)
+[ProScaleRef 7.5](#7.5_ProScaleRef)
 
 
-[ProScaleItem 11.4](#11.4_ProScaleItem)
+[ProSectionTypeItem 7.6](#7.6_ProSectionTypeItem)
 
 
-[ProScaleRef 11.5](#11.5_ProScaleRef)
+[ProSectionTypeRef 7.7](#7.7_ProSectionTypeRef)
 
 
-[ProSectionTypeItem 11.6](#11.6_ProSectionTypeItem)
+[Profile 6.2](#6.2_Profile)
 
 
-[ProSectionTypeRef 11.7](#11.7_ProSectionTypeRef)
+[Profiles 6](#6_Profiles)
 
 
-[Profile 10.2](#10.2_Profile)
-
-
-[Profiles 10](#10_Profiles)
-
-
-[TopicDef5 7](#7_TopicDef5)
-
-
-[UmlModel1 1](#1_UmlModel1)
-
-
-[eingelesen1 3](#3_eingelesen1)
+[UML\_DM\_GA25\_Profiles\_V1 1](#1_UML_DM_GA25_Profiles_V1)
 
 
 
