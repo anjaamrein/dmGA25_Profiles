@@ -4,7 +4,7 @@
 	<MODELS>
 	  <MODEL NAME="CatalogueObjects_V1" VERSION="2011-08-30" URI="http://www.geo.admin.ch"/>
 	  <MODEL NAME="LocalisationCH_V1" VERSION="2011-08-30" URI="http://www.geo.admin.ch"/>
-	  <MODEL NAME="DM_GA25_ProfilesCatalogues_V1" VERSION="2022-01-24" URI="https://models.geo.admin.ch/Swisstopo/"/>
+	  <MODEL NAME="GA25_ProfilesCatalogues_V1" VERSION="2022-01-24" URI="https://models.geo.admin.ch/Swisstopo/"/>
 	</MODELS>
 	</HEADERSECTION>
 	<DATASECTION>
