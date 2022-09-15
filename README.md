@@ -1,3 +1,7 @@
+*Dieses Repository wird als Arbeitsumgebung zur Entwicklung der Datenmodelle der Landesgeologie genutzt. Abgeschlossene Versionen der Modelle können auf [models.admin.ch](https://models.geo.admin.ch/Swisstopo/) heruntergeladen werden.*
+
+*This repository is used as a working environment for the development of the Swiss Geological Survey data models. Completed versions of the models can be downloaded from [models.admin.ch](https://models.geo.admin.ch/Swisstopo/).*
+
 # dmGA25_Profiles
 
 Der Datensatz GA25-Profile (GA25_CS) ist eine Zusammenstellung der im Geologischen Atlas 1:25000 publizierten Profile. Das git dmGA25_Profiles enthält das dazu verwendete Datenmodell verfasst in der Modellsprache Interlis. Der Datensatz stellt die Profilspuren dar und enthält Metadaten zu den Profilen. Das angegebene Ausgabejahr entspricht dem Publikationsjahr der entsprechenden Erläuterungen. Die zu den Spuren passenden Profile wurden aus den Profiltafeln ausge-schnitten und nach Möglichkeit einzeln mit der gesamten Tafellegende und dem Tafelmass-stab als PDF abgespeichert. Da sich die Legende jeweils auf die Tafel bezieht, sind nicht immer alle in der Legende enthaltenen Elemente im Einzelprofil dargestellt. In wenigen Fällen konnten Tafeln mit zu eng gestaffelten Profilen nicht in Einzelprofile aufgeteilt werden. In diesen Fällen wurde für mehrere Profilspuren jeweils die gesamte Tafel dargestellt.
